@@ -154,7 +154,7 @@ class ArrayPointer {
 
     int front() {
         if (size == 0) {
-            return start->val;
+            return ;
             // exception
             // ...
             // ...
